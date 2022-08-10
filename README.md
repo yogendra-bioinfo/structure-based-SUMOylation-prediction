@@ -12,4 +12,4 @@ The folder GO_term_analysis contains information about Gene Ontology terms enric
 
 File named CATH_mappings_for_training_dataset.tsv contains information about different CATH folds present in the proteins used in this study.
 
-
+File named prediction_results_obtained_for_different_sets.png contains a table describing details of predictions made using res-pair sets of sizes varying from 1 to 18.
